@@ -1,0 +1,6 @@
+Survival rates grouped y Gender and age show that Women and Children
+                had more survival rate than Men and Adults and Senior. This proves the fact that evacuation
+                of Women and Children was given more priority than any other.
+Passengers in 1st Class had much more higher survival rates than those in 2nd 
+                and 3rd class. When using fare-based quantile bins, Survival rates also increase 
+                with increase in higher fares. This confirms wealth was strongly related to survival chances
